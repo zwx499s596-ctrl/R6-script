@@ -4,7 +4,7 @@ EnableRCS = true --- When Set to false, it'll turn off Recoil Control!
 
 RecoilControlMode = "High" --- Presets: "Low", "Medium", "High", "Ultra", "Insanity", "Custom"
 
-RcCustomStrength = 7 -- Value MUST be ROUNDED! No Decimal values such as 6.5!
+RcCustomStrength = 13 -- Value MUST be ROUNDED! No Decimal values such as 6.5!
 
 RequireToggle = true -- Change to false if you want it to always be on.
 
